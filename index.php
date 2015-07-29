@@ -22,7 +22,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Monserrat Urzua Alvarez</h1>
+						<h1>Monserrat Urzúa Álvarez</h1>
 						<p>Maestría en Computación &nbsp;&bull;&nbsp; Administración de Redes (CCNA) &nbsp;&bull;&nbsp; Ingeniera en Telematica</p>
 						<nav>
 							<ul>
